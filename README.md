@@ -15,7 +15,7 @@ A MIDI redirector for Synthesia to make some types of keyboard lights work.
 ## Demo
 This is how it should be:
 
-![Sentive-with-POP](https://github.com/UlyssesWu/SentivePiano/blob/master/demo/Sentive-POP.jpg)
+[![Sentive-with-POP](https://github.com/UlyssesWu/SentivePiano/blob/master/demo/Sentive-POP.jpg)](https://soundcloud.com/le-volume-sur-t/2ftmwpkxvpzy)
 
 ## Compile
 Due to license reason (no re-distribution), you should put the source code files from [teVirtualMIDI](http://www.tobias-erichsen.de/software/virtualmidi/virtualmidi-sdk.html) by yourself.
@@ -29,7 +29,3 @@ Due to license reason (no re-distribution), you should put the source code files
 
 ---
 by Ulysses
-
- 
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305073662&color=%23e6cea9&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
