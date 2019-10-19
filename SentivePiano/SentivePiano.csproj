@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ulysses</Authors>
+    <Company>Ulysses</Company>
+    <RepositoryUrl>https://github.com/UlyssesWu/SentivePiano</RepositoryUrl>
+    <PackageReleaseNotes>by Ulysses (wdwxy12345@gmail.com)</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Melanchall.DryWetMidi" Version="4.1.1" />
+  </ItemGroup>
+
+</Project>

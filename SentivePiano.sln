@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentivePiano", "SentivePiano\SentivePiano.csproj", "{BF2A797A-1081-477B-8A2C-302819CDFDC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentivePiano.Console", "SentivePiano.Console\SentivePiano.Console.csproj", "{53AF7A04-D950-469D-98C6-BEFCA5CA418B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2A797A-1081-477B-8A2C-302819CDFDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2A797A-1081-477B-8A2C-302819CDFDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2A797A-1081-477B-8A2C-302819CDFDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2A797A-1081-477B-8A2C-302819CDFDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AF7A04-D950-469D-98C6-BEFCA5CA418B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AF7A04-D950-469D-98C6-BEFCA5CA418B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AF7A04-D950-469D-98C6-BEFCA5CA418B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AF7A04-D950-469D-98C6-BEFCA5CA418B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9F8796-67B6-4E25-B344-833DAB45DB9E}
+	EndGlobalSection
+EndGlobal

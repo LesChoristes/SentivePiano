@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/SentivePiano.Console/teVirtualMIDI.cs
+/SentivePiano.Console/teVirtualMIDITest.cs
